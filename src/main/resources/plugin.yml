@@ -1,0 +1,4 @@
+name: Chatterbox
+version: ${project.version}
+main: com.github.wickoo.chatterbox.ChatterboxMain
+api-version: 1.16
